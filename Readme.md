@@ -7,3 +7,5 @@ Simulando alteração feita pelo time de Mobile Platform.
 Simulando alteração feita pelo time de Quality Engineering.
 
 Simulando alteração feita pelo time de Platform Engineering.
+
+Simulando mais uma alteração feita pelo time de Platform Engineering.
