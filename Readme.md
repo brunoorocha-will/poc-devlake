@@ -4,4 +4,6 @@ Fabricando métrica de deploy. Tentando produzir os dados no formato que seja in
 
 Simulando alteração feita pelo time de Mobile Platform.
 
+Simulando alteração feita pelo time de Quality Engineering.
+
 Simulando alteração feita pelo time de Platform Engineering.
